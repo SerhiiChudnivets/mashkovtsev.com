@@ -1,0 +1,9 @@
+{
+  "name": "mashkovtsev.com",
+  "description": "іфвафіап",
+  "url": "mashkovtsev.com",
+  "language_code": "en",
+  "allow_indexing": true,
+  "redirect_404s_to_homepage": true,
+  "use_www_version": true
+}
